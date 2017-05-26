@@ -1,7 +1,8 @@
 # 231716573.github.io
 
-new blog
-include：
+测试技术专用blog。
+
+技术包含：
 1、html
 2、css
 3、js
